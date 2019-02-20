@@ -1,0 +1,179 @@
+[
+    {
+      "name": "Australian Shepherd",
+"prix": 1300,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/australian-shepherd-detail.jpg?bust=1535565122&width=630"
+    },
+
+ {
+      "name": "Beagle",
+"prix": 800,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/beagle-detail.jpg?bust=1535565158&width=630"
+    },
+
+{
+      "name": "Border Collie",
+"prix": 1000,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/beagle-detail.jpg?bust=1535565158&width=630"
+    },
+
+{
+      "name": "Chihuahua",
+"prix": 900,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/chihuahua-detail.jpg?bust=1535565487&width=630"
+    },
+
+{
+      "name": "Chow Chow",
+"prix": 1500,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/chow-chow-detail.jpg?bust=1535565518&width=630"
+    },
+
+{
+      "name": "Dachshund",
+"prix": 1800,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/dachshund-detail.jpg?bust=1535565576&width=630"
+    },
+
+{
+      "name": "Dalmatian",
+"prix": 2000,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/dalmatian-detail.jpg?bust=1535565585&width=630"
+    },
+
+{
+      "name": "English Bulldog",
+"prix": 1400,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/english-bulldog-detail.jpg?bust=1535565637&width=630"
+    },
+
+
+
+{
+      "name": "French Bulldog",
+"prix": 800,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/french-bulldog-detail.jpg?bust=1535565800&width=630"
+    },
+
+{
+      "name": "Golden Retriever",
+"prix": 1000,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/golden-retriever-detail.jpg?bust=1535565857&width=630"
+    },
+
+
+{
+      "name": "Harrier",
+"prix": 1500,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/harrier-detail.jpg?bust=1535565908&width=630"
+    },
+
+{
+      "name": "Irish Water Spaniel",
+"prix": 1000,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/irish-water-spaniel-detail.jpg?bust=1535565960&width=630"
+    },
+
+{
+      "name": "Komondor",
+"prix": 1400,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/komondor-detail.jpg?bust=1535566031&width=630"
+    },
+
+{
+      "name": "Mastiff",
+"prix": 1900,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/mastiff-detail.jpg?bust=1535566122&width=630"
+    }, 
+
+
+{
+      "name": "Miniature Poodle",
+"prix": 600,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/miniature-poodle-detail.jpg?bust=1535566357&width=630"
+    },
+
+
+{
+      "name": "Old English Sheepdog",
+"prix": 1000,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/old-english-sheepdog-detail.jpg?bust=1535566218&width=630"
+    },
+
+
+{
+      "name": "Papillon",
+"prix": 800,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/papillon-detail.jpg?bust=1535566235&width=630"
+    },
+{
+      "name": "Pekingese",
+"prix": 300,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/pekingese-detail.jpg?bust=1535566246&width=630"
+    },
+{
+      "name": "Pomeranian",
+"prix": 1300,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/pomeranian-detail.jpg?bust=1535566323&width=630"
+    },
+{
+      "name": "Poodle",
+"prix": 900,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/poodle-detail.jpg?bust=1535566339&width=630"
+    },
+
+{
+      "name": "Pug",
+"prix": 800,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/pug-detail.jpg?bust=1535566394&width=630"
+    }, 
+
+{
+      "name": "Puli",
+"prix": 1000,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/puli-detail.jpg?bust=1535566406&width=630"
+    }, 
+
+{
+      "name": "Saint Bernard",
+"prix": 2000,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/saint-bernard-detail.jpg?bust=1535566478&width=630"
+    },
+
+{
+      "name": "Saluki",
+"prix": 1300,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/saluki-detail.jpg?bust=1535566487&width=630"
+    },
+{
+      "name": "Samoyed",
+"prix": 1700,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/samoyed-detail.jpg?bust=1535566500&width=630"
+    }, 
+
+{
+      "name": "Siberian Husky",
+"prix": 3000,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/siberian-husky-detail.jpg?bust=1535566590&width=630"
+    },
+  
+
+
+{
+      "name": "Sussex Spaniel",
+"prix": 400,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/sussex-spaniel-detail.jpg?bust=1535566675&width=630"
+    },
+
+{
+      "name": "Weimaraner",
+"prix": 1900,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/weimaraner-detail.jpg?bust=1535566762&width=630"
+    },
+
+{
+      "name": "Samoyed",
+"prix": 1100,
+      "imageUrl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/samoyed-detail.jpg?bust=1535566500&width=630"
+    }
+]
